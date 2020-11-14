@@ -1,0 +1,28 @@
+{
+  "BigQuery Schema": [
+    {
+      "name": "seriesReference",
+      "type": "STRING"
+    },
+    {
+      "name": "period",
+      "type": "STRING"
+    },
+    {
+      "name": "dataValue",
+      "type": "FLOAT64"
+    },
+    {
+      "name": "newDataValue",
+      "type": "FLOAT64"
+    },
+    {
+      "name": "status",
+      "type": "STRING"
+    },
+    {
+      "name": "unit",
+      "type": "STRING"
+    }
+  ]
+}
